@@ -1,0 +1,49 @@
+﻿  gameInstance.cpp
+S:\VS\source\repos\CS330\Collisions\Circle.h(13,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'gameInstance.cpp')
+  
+S:\VS\source\repos\CS330\Collisions\menuElements.h(299,8): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'gameInstance.cpp')
+  
+S:\VS\source\repos\CS330\Collisions\menuElements.h(300,8): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'gameInstance.cpp')
+  
+S:\VS\source\repos\CS330\Collisions\menuElements.h(321,8): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'gameInstance.cpp')
+  
+S:\VS\source\repos\CS330\Collisions\menuElements.h(323,8): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'gameInstance.cpp')
+  
+S:\VS\source\repos\CS330\Collisions\menuElements.h(344,8): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'gameInstance.cpp')
+  
+S:\VS\source\repos\CS330\Collisions\menuElements.h(366,8): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'gameInstance.cpp')
+  
+S:\VS\source\repos\CS330\Collisions\menuElements.h(380,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'gameInstance.cpp')
+  
+S:\VS\source\repos\CS330\Collisions\menuElements.h(387,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'gameInstance.cpp')
+  
+S:\VS\source\repos\CS330\Collisions\gameInstance.cpp(23,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+S:\VS\source\repos\CS330\Collisions\gameInstance.cpp(30,8): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+S:\VS\source\repos\CS330\Collisions\gameInstance.cpp(153,18): warning C4305: 'argument': truncation from 'double' to 'float'
+S:\VS\source\repos\CS330\Collisions\gameInstance.cpp(153,13): warning C4305: 'argument': truncation from 'double' to 'float'
+S:\VS\source\repos\CS330\Collisions\gameInstance.cpp(154,25): warning C4305: 'argument': truncation from 'double' to 'float'
+S:\VS\source\repos\CS330\Collisions\gameInstance.cpp(154,20): warning C4305: 'argument': truncation from 'double' to 'float'
+S:\VS\source\repos\CS330\Collisions\gameInstance.cpp(157,18): warning C4305: 'argument': truncation from 'double' to 'float'
+S:\VS\source\repos\CS330\Collisions\gameInstance.cpp(157,13): warning C4305: 'argument': truncation from 'double' to 'float'
+S:\VS\source\repos\CS330\Collisions\gameInstance.cpp(158,25): warning C4305: 'argument': truncation from 'double' to 'float'
+S:\VS\source\repos\CS330\Collisions\gameInstance.cpp(158,20): warning C4305: 'argument': truncation from 'double' to 'float'
+S:\VS\source\repos\CS330\Collisions\gameInstance.cpp(284,21): warning C4018: '<': signed/unsigned mismatch
+S:\VS\source\repos\CS330\Collisions\gameInstance.cpp(286,22): warning C4018: '<': signed/unsigned mismatch
+S:\VS\source\repos\CS330\Collisions\gameInstance.cpp(312,22): warning C4018: '<': signed/unsigned mismatch
+S:\VS\source\repos\CS330\Collisions\gameInstance.cpp(348,21): warning C4018: '<': signed/unsigned mismatch
+S:\VS\source\repos\CS330\Collisions\gameInstance.cpp(364,2): warning C4551: function call missing argument list
+S:\VS\source\repos\CS330\Collisions\gameInstance.cpp(381,46): warning C4305: 'argument': truncation from 'double' to 'float'
+S:\VS\source\repos\CS330\Collisions\gameInstance.cpp(523,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Collisions.vcxproj -> S:\VS\source\repos\CS330\Debug\Collisions.exe
+  S:\VS\source\repos\CS330\bin\glew-2.2.0\Release\Win32\glew32.dll
+  1 File(s) copied

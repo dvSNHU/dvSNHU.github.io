@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EventTracking</string>
+    <string name="login">Log In</string>
+    <string name="newUser">Create Account</string>
+    <string name="userHint">Username</string>
+    <string name="passHint">Password</string>
+</resources>
