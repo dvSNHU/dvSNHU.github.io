@@ -4,6 +4,10 @@
 
 # <center> CS-499 Capstone </center>
 
+## Self-Assessment
+
+
+
 ## CODE REVIEW
 
 The importance  of a code review is to find issues in the current iteration of the code base and plan fixes and improvements. This ensures the quality of the code meets a minimum expectation held by the developers and company.
@@ -51,19 +55,3 @@ The artifact I chose for the Databases category is the event tracker that was ma
 </p>
 
 <code> To view the github for this artifact click <a href="https://github.com/dvSNHU/dvSNHU.github.io/tree/main/Artifacts/3">HERE</a>
-
-# Self-Assessment
-
-
-
-
-
-
-
-
-
-
-
-
-
-
